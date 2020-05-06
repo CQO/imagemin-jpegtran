@@ -1,6 +1,6 @@
 {
   "name": "minimum-jpeg",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "jpegtran imagemin plugin",
   "license": "MIT",
   "repository": "imagemin/imagemin-jpegtran",
